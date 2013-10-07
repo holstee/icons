@@ -1,0 +1,12 @@
+font_name: font-holstee               # Names the font (also sets name and directory of generated files)
+project_root: ./                      # Context for all relative paths
+input: ./svg                          # Where vectors and templates are located
+output: ./dist                  # Where generated files will be saved
+file_hash: true                       # Include an asset-busting hash
+css_prefix: fh-icon-                  # CSS class prefix
+preprocessor_path: ""                 # Font path used in CSS proprocessor templates
+debug: false                          # Output raw messages from fontforge
+verbose: true                         # Set to false to silence
+templates: [ css, preview ]           # Templates to generate alongside fonts
+                                      # Possible values: preview, css, scss, scss-rails, bootstrap, 
+                                      # bootstrap-scss, bootstrap-ie7, bootstrap-ie7-scss
