@@ -1,5 +1,5 @@
 #!/bin/bash
-fontcustom compile ./svg --no-hash
+fontcustom compile ./svg
 cp ./dist/font-holstee.css ./dist/font-holstee.less
 perl -pi -w -e 's/\(\"\.\/font-holstee/\(\"\@\{fontHolsteePath\}/g' ./dist/font-holstee.less
 mv ./dist/font-holstee-preview.html ./index.html

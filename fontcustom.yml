@@ -1,3 +1,4 @@
+no_hash: true
 font_name: font-holstee               # Names the font (also sets name and directory of generated files)
 project_root: ./                      # Context for all relative paths
 input: ./svg                          # Where vectors and templates are located
