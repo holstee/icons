@@ -1,13 +1,13 @@
 {
   "fonts": [
-    "/Users/thomas/Desktop/font-holstee/dist/font-holstee.ttf",
-    "/Users/thomas/Desktop/font-holstee/dist/font-holstee.woff",
-    "/Users/thomas/Desktop/font-holstee/dist/font-holstee.eot",
-    "/Users/thomas/Desktop/font-holstee/dist/font-holstee.svg"
+    "/Users/thomas/Downloads/font-holstee/dist/font-holstee.ttf",
+    "/Users/thomas/Downloads/font-holstee/dist/font-holstee.woff",
+    "/Users/thomas/Downloads/font-holstee/dist/font-holstee.eot",
+    "/Users/thomas/Downloads/font-holstee/dist/font-holstee.svg"
   ],
   "templates": [
-    "/Users/thomas/Desktop/font-holstee/dist/font-holstee.css",
-    "/Users/thomas/Desktop/font-holstee/dist/font-holstee-preview.html"
+    "/Users/thomas/Downloads/font-holstee/dist/font-holstee.css",
+    "/Users/thomas/Downloads/font-holstee/dist/font-holstee-preview.html"
   ],
   "glyphs": [
     "alpacawool-circle",
