@@ -59,6 +59,7 @@
 .fh-icon-remotework:before,
 .fh-icon-rss-circle:before,
 .fh-icon-rss:before,
+.fh-icon-scooter:before,
 .fh-icon-screenprint-circle:before,
 .fh-icon-screenprint:before,
 .fh-icon-search-circle:before,
@@ -139,29 +140,30 @@
 .fh-icon-remotework:before { content: "\f128"; }
 .fh-icon-rss-circle:before { content: "\f129"; }
 .fh-icon-rss:before { content: "\f12a"; }
-.fh-icon-screenprint-circle:before { content: "\f12b"; }
-.fh-icon-screenprint:before { content: "\f12c"; }
-.fh-icon-search-circle:before { content: "\f12d"; }
-.fh-icon-search:before { content: "\f12e"; }
-.fh-icon-seasonalretreat:before { content: "\f12f"; }
-.fh-icon-simple-circle:before { content: "\f130"; }
-.fh-icon-simple:before { content: "\f131"; }
-.fh-icon-slim-profile:before { content: "\f132"; }
-.fh-icon-snowflake-circle:before { content: "\f133"; }
-.fh-icon-squeegee-circle:before { content: "\f134"; }
-.fh-icon-squeegee:before { content: "\f135"; }
-.fh-icon-submitstory-circle:before { content: "\f136"; }
-.fh-icon-submitstory:before { content: "\f137"; }
-.fh-icon-teamlunches:before { content: "\f138"; }
-.fh-icon-tumblr-circle:before { content: "\f139"; }
-.fh-icon-tumblr:before { content: "\f13a"; }
-.fh-icon-twitter-circle:before { content: "\f13b"; }
-.fh-icon-twitter:before { content: "\f13c"; }
-.fh-icon-upcycled-circle:before { content: "\f13d"; }
-.fh-icon-waterbased-circle:before { content: "\f13e"; }
-.fh-icon-weeklyrefresh-circle:before { content: "\f13f"; }
-.fh-icon-weeklyrefresh:before { content: "\f140"; }
-.fh-icon-youthtrade-circle:before { content: "\f141"; }
-.fh-icon-youthtrade:before { content: "\f142"; }
-.fh-icon-youtube-circle:before { content: "\f143"; }
-.fh-icon-youtube:before { content: "\f144"; }
+.fh-icon-scooter:before { content: "\f12b"; }
+.fh-icon-screenprint-circle:before { content: "\f12c"; }
+.fh-icon-screenprint:before { content: "\f12d"; }
+.fh-icon-search-circle:before { content: "\f12e"; }
+.fh-icon-search:before { content: "\f12f"; }
+.fh-icon-seasonalretreat:before { content: "\f130"; }
+.fh-icon-simple-circle:before { content: "\f131"; }
+.fh-icon-simple:before { content: "\f132"; }
+.fh-icon-slim-profile:before { content: "\f133"; }
+.fh-icon-snowflake-circle:before { content: "\f134"; }
+.fh-icon-squeegee-circle:before { content: "\f135"; }
+.fh-icon-squeegee:before { content: "\f136"; }
+.fh-icon-submitstory-circle:before { content: "\f137"; }
+.fh-icon-submitstory:before { content: "\f138"; }
+.fh-icon-teamlunches:before { content: "\f139"; }
+.fh-icon-tumblr-circle:before { content: "\f13a"; }
+.fh-icon-tumblr:before { content: "\f13b"; }
+.fh-icon-twitter-circle:before { content: "\f13c"; }
+.fh-icon-twitter:before { content: "\f13d"; }
+.fh-icon-upcycled-circle:before { content: "\f13e"; }
+.fh-icon-waterbased-circle:before { content: "\f13f"; }
+.fh-icon-weeklyrefresh-circle:before { content: "\f140"; }
+.fh-icon-weeklyrefresh:before { content: "\f141"; }
+.fh-icon-youthtrade-circle:before { content: "\f142"; }
+.fh-icon-youthtrade:before { content: "\f143"; }
+.fh-icon-youtube-circle:before { content: "\f144"; }
+.fh-icon-youtube:before { content: "\f145"; }

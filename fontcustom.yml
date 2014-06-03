@@ -2,7 +2,7 @@ no_hash: true
 font_name: font-holstee               # Names the font (also sets name and directory of generated files)
 project_root: ./                      # Context for all relative paths
 input: ./svg                          # Where vectors and templates are located
-output: ./dist                  # Where generated files will be saved
+output: ./dist                        # Where generated files will be saved
 file_hash: true                       # Include an asset-busting hash
 css_prefix: fh-icon-                  # CSS class prefix
 preprocessor_path: ""                 # Font path used in CSS proprocessor templates
