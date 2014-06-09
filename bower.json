@@ -1,0 +1,16 @@
+{
+  "name": "holstee-icons",
+  "version": "0.0.0",
+  "homepage": "https://github.com/holstee/icons",
+  "authors": [
+    "reggi <thomas@reggi.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
